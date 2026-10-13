@@ -22,10 +22,9 @@ Management Challenges: Managers face communication barriers, employee tracking d
 Support Request: "Hello FlexTime, my name is John Doe (john.doe@email.com). I haven't
 received my shipment updates for order FT-99881. Please check."] `
 ### ChatGPT Output
-[Customer Name: John Doe
-Email Address: john.doe@email.com
-Order ID: FT-99881]
-
+- **Customer Name:** John Doe
+- **Email Address:** john.doe@email.com
+- **Order ID:** FT-99881
 
 
 ## Task 3:Formatting Conversion
