@@ -37,10 +37,11 @@ List:
 - Ergonomic Keyboard: $70.00
 - Insulated Water Bottle: $18.00] `
 ### ChatGPT Output
-[Item	                 Price
-Wireless Mouse	        $25.00
-Ergonomic Keyboard	$70.00
-Insulated Water Bottle	$18.00]
+[| Item | Price |
+|---|---|
+| Wireless Mouse | $25.00 |
+| Ergonomic Keyboard | $70.00 |
+| Insulated Water Bottle | $18.00 |]
 
 
 ## Task 4:Tone Editing
