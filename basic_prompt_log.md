@@ -8,12 +8,9 @@ for modern businesses. While remote employees benefit from increased flexibility
 reduced commute times, managers often face communication barriers, tracking
 difficulties, and security risks associated with home networks."] `
 ### ChatGPT Output
-[Rapid Growth: Remote work has expanded significantly, creating new opportunities and challenges for businesses.
-
-Employee Benefits: Remote workers enjoy greater flexibility and reduced commuting time.
-
-Management Challenges: Managers face communication barriers, employee tracking difficulties, and security risks from home networks.]
-
+- **Rapid Growth:** Remote work has expanded significantly, creating new opportunities and challenges for businesses.
+- **Employee Benefits:** Remote workers enjoy greater flexibility and reduced commuting time.
+- **Management Challenges:** Managers face communication barriers, employee tracking difficulties, and security risks from home networks.
 
 
 ## Task 2: Information Extraction
